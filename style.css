@@ -1,0 +1,19 @@
+body {
+	font: 13px/20px "Helvetica Neue","Lucida Grande",sans-serif;
+	text-shadow: 0 1px 0 #fff;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 26px;
+	line-height: 30px;
+	margin: 2px 0 28px 0;
+}
+
+div.container {
+	background: #E5E5E5;
+	width: 600px;
+	float: left;
+	margin: 0 auto;
+}
