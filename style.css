@@ -1,19 +1,9 @@
-body {
-	font: 13px/20px "Helvetica Neue","Lucida Grande",sans-serif;
-	text-shadow: 0 1px 0 #fff;
-	margin: 0;
-	padding: 0;
+.product_bottom_border{
+	border-bottom: 2px solid gray;
 }
 
-h1 {
-	font-size: 26px;
-	line-height: 30px;
-	margin: 2px 0 28px 0;
+.box3_extra_style{
+	margin: 0 30px 50px 30px;
+	text-align: center;
 }
 
-div.container {
-	background: #E5E5E5;
-	width: 600px;
-	float: left;
-	margin: 0 auto;
-}
