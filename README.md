@@ -1,4 +1,4 @@
 Fun with Nokogiri and Bootstrap
 ===============================
 
-Fetch Apple products from Walmart.com using Nocogiri,open-uri and bootstap.
+Check out the project page here (http://ahmednadar.github.io/nokogiri_mart/)
