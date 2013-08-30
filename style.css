@@ -1,0 +1,14 @@
+.product_bottom_border{
+	border-bottom: 2px solid gray;
+}
+
+.box3_extra_style{
+	margin: 0 30px 50px 30px;
+	text-align: center;
+}
+
+.price{
+	font-weight: bold;
+	font-size: 30px;
+	color: #FC9C3E;
+	}
